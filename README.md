@@ -1,2 +1,2 @@
 # olgierd2011
-Olgierd's repository for code learning
+Olgierd's architecture project for school
